@@ -1,9 +1,4 @@
 # documentation
-to learn how to properly write documentation.
+## learn how to properly write documentation.
  
-okay great experience
-okay
-thanks
-welcome
-
-Starting python project, will develop a game bomberman.
+## Starting python project to develop a game called bomberman.
