@@ -5,3 +5,5 @@ okay great experience
 okay
 thanks
 welcome
+
+Starting python project, will develop a game bomberman.
